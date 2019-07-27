@@ -1,5 +1,5 @@
 # RestoSocial
-Projet pour compenser les délais et manquements CAF et URSSAF
+Projet pour compenser les délais et manquements sociaux
 
 
 KickStarter en cours de rédaction.
