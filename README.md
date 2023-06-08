@@ -1,8 +1,5 @@
 # RestoSocial
-Projet pour compenser les délais et manquements sociaux
-
-
-KickStarter en cours de rédaction.
+Projet en cours de création.
 
 objectif : Fournir une aide aux difficultés immédiates de chacun en prenant en compte le besoin subjectif de chaque demandeurs.
 
